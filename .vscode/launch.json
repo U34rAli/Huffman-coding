@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HuffmanTest",
+            "request": "launch",
+            "mainClass": "HuffmanTest"
+        }
+    ]
+}
